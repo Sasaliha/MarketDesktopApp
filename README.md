@@ -1,1 +1,1 @@
-# 02.MarketDesktopApp
+# 02.StoreDesktopApp
