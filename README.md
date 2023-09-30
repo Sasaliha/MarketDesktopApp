@@ -57,11 +57,13 @@ Faturaya ait detay kalemlerden iade edilmek istenen ürüne ait satırı secerek
 <img width="547" alt="image" src="https://github.com/Sasaliha/StoreDesktopApp/assets/77535648/88bd1115-ab24-43f5-92d3-0dcfef2ba171"><img width="547" alt="image" src="https://github.com/Sasaliha/StoreDesktopApp/assets/77535648/1075c5f2-83e0-4e5f-b395-d8ebacbd4869">
 
 
+UYGULAMA ÖNİZLEMESİ
 
 
+![son](https://github.com/Sasaliha/StoreDesktopApp/assets/77535648/6e90d09d-7820-4c00-9dfa-77d9733f7420)
 
 
-
+![print](https://github.com/Sasaliha/StoreDesktopApp/assets/77535648/97a8f8f6-ee5d-42b2-a346-a656133bb8f4)
 
 
 
